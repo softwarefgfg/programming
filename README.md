@@ -21,7 +21,7 @@ Select gender<input type="radio" name="gender">Male
 Age :-<input type="text" placeholder="enter your age"> <br>
 Address :-<input type="text" placeholder="enter your living adress"> <br>
 
-<button type=submit" value="submit">SUBMIT FORM </button>
+
 
 
 
