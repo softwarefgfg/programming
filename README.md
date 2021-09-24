@@ -2,7 +2,6 @@
 IN THIS IS WILL PUT NEW SOFTWARES
 <doctype html>
 <html>
-<head> <title> bhavy modi</title> </head>
 <body>
 
 <h1> *REGESTRATION FORM*</h1>
