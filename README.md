@@ -7,11 +7,6 @@ IN THIS IS WILL PUT NEW SOFTWARES
 
 <h1> *REGESTRATION FORM*</h1>
 
-<style>
-
-h1 { color : red;}
-
-</style>
 
 <form>
 First Name :-<input type="text" placeholder="enter your name">
